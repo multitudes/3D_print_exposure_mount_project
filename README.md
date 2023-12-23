@@ -1,12 +1,24 @@
-# 3D_print_exposure_mount_project
-Another 42 projectr - The files for to 3D print a mount for the rear exposure bike lights
+# 3D Print Exposure Mount Project
 
-[asset1](assets/1.jpeg)
+An extracurricular project at the fablab @42Berlin.
 
-[asset1](/2.jpeg)
+With thanks to Luiz Baron for creating the model on [Autodesk Fusion 360](https://www.autodesk.eu/products/fusion-360/overview)!
 
-[asset1](assets/3.jpeg)
+I had lost the mount for my rear exposure light. It is difficult if not impossible to buy just the mount for the saddle post. Instead of purchasing a new light, which can be quite pricey and typically retails between 50 and 70 Euros, I opted to 3D print the mount myself.
 
-[asset1](assets/4.jpeg)
+This repository contains the necessary files for 3D printing a mount designed for the "TraceR MK3 DayBright Rear" bike lights.
 
-[asset1](assets/5.jpeg)
+<img src="assets/1.jpeg" alt="asset1" width="300"/>
+<img src="assets/2.jpeg" alt="asset2" width="300"/>
+<img src="assets/3.jpeg" alt="asset3" width="300"/>
+<img src="assets/4.jpeg" alt="asset4" width="300"/>
+<img src="assets/5.jpeg" alt="asset5" width="300"/>
+
+
+![asset1](/2.jpeg)
+
+![asset1](assets/3.jpeg)
+
+![asset1](assets/4.jpeg)
+
+![asset1](assets/5.jpeg)
