@@ -8,17 +8,14 @@ I had lost the mount for my rear exposure light. It is difficult if not impossib
 
 This repository contains the necessary files for 3D printing a mount designed for the "TraceR MK3 DayBright Rear" bike lights.
 
+Here we start with a couple of parts:  
 <img src="assets/1.jpeg" alt="asset1" width="300"/>
 <img src="assets/2.jpeg" alt="asset2" width="300"/>
+
+which will be joined:  
 <img src="assets/3.jpeg" alt="asset3" width="300"/>
+and printed:  
 <img src="assets/4.jpeg" alt="asset4" width="300"/>
 <img src="assets/5.jpeg" alt="asset5" width="300"/>
 
-
-![asset1](/2.jpeg)
-
-![asset1](assets/3.jpeg)
-
-![asset1](assets/4.jpeg)
-
-![asset1](assets/5.jpeg)
+This part is supposed to be used with a strap. I thought it is safer than a rubber band. The material used for the 3D print will also influence its longevity!
