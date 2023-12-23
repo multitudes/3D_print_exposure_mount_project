@@ -13,7 +13,8 @@ Here we start with a couple of parts:
 <img src="assets/2.jpeg" alt="asset2" width="300"/>
 
 which will be joined:  
-<img src="assets/3.jpeg" alt="asset3" width="300"/>
+<img src="assets/3.jpeg" alt="asset3" width="300"/>  
+
 and printed:  
 <img src="assets/4.jpeg" alt="asset4" width="300"/>
 <img src="assets/5.jpeg" alt="asset5" width="300"/>
