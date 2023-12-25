@@ -1,4 +1,4 @@
-# 3D Print Exposure Mount Project
+# 3D Print Exposure rear light mount project
 
 An extracurricular project at the fablab @42Berlin.
 
